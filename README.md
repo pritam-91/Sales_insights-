@@ -1,6 +1,6 @@
-**Sales_Insight's **
+**Sales Insight's**
 
-**Project Description:**
+**Description:**
 
 The Sales_Insight is designed to provide an intuitive and interactive platform for visualizing and analyzing sales data across various dimensions. The aim of this project is to streamline decision-making processes by offering real-time insights into sales performance, customer trends, and market dynamics.
 
